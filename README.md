@@ -1,6 +1,6 @@
 # shodh
+In Hindi or Sanskrit [shodh](https://bit.ly/2GRT9Cf) means Research. This repository is intended to be notes / research journal.
 
-https://bit.ly/2GRT9Cf
-
-# How brain and mind works
-https://nancysbraintalks.mit.edu/video/12-how-can-we-study-human-mind-and-brain-marr%E2%80%99s-level%E2%80%99s-analysis
+### 2019 / 09
+- How to read a paper
+- How to write Maths (non fiction)
